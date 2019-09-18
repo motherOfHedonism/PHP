@@ -1,0 +1,16 @@
+form>input {
+    margin-top: 1vh;
+}
+
+form>div {
+    display: flex;
+    margin-top: 1vh;
+}
+
+label {
+    width: 12vw;
+}
+
+.inputSubmit {
+    margin-left: 12vw;
+}
